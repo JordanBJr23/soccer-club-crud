@@ -12,7 +12,9 @@
 	<artifactId>soccer-club-crud</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Football Team CRUD</name>
-	<description>&quot;Una aplicación para gestionar y administrar la información de los equipos de fútbol, permitiendo realizar operaciones básicas como crear, leer, actualizar y eliminar registros de equipos"</description>
+	<description>&quot;Una aplicación para gestionar y administrar la
+		información de los equipos de fútbol, permitiendo realizar operaciones
+		básicas como crear, leer, actualizar y eliminar registros de equipos"</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
